@@ -38,3 +38,4 @@ for request in sorted_requests:
         request.location,
         request.priority
     )
+print("Priority system implemented successfully.")
